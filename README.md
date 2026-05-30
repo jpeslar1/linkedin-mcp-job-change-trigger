@@ -93,10 +93,12 @@ I'm publishing my LinkedIn MCP pipelines as I clean them up:
 - [linkedin-mcp-engagement-pod](https://github.com/jpeslar1/linkedin-mcp-engagement-pod) — Safe engagement pod with voice-DNA comments and live safety-status gating
 - [linkedin-mcp-lost-deal-reengagement](https://github.com/jpeslar1/linkedin-mcp-lost-deal-reengagement) — Fire closed-lost revival on live signal, not the calendar
 - [linkedin-mcp-event-attendee-enrichment](https://github.com/jpeslar1/linkedin-mcp-event-attendee-enrichment) — Resolve event attendees live on LinkedIn for accurate titles + tiering
-- linkedin-mcp-webinar-followup — coming soon
-- linkedin-mcp-newsletter-to-pipeline — coming soon
-- linkedin-mcp-trade-show-pipeline — coming soon
-- linkedin-mcp-icp-discovery — coming soon
+- [linkedin-mcp-webinar-followup](https://github.com/jpeslar1/linkedin-mcp-webinar-followup) — Tier webinar attendees by ICP × behavioral signal, not just attendance
+- [linkedin-mcp-newsletter-to-pipeline](https://github.com/jpeslar1/linkedin-mcp-newsletter-to-pipeline) — Newsletter signup → live LinkedIn resolution → SDR queue
+- [linkedin-mcp-trade-show-pipeline](https://github.com/jpeslar1/linkedin-mcp-trade-show-pipeline) — 3-phase trade show pipeline with live LinkedIn enrichment
+- [linkedin-mcp-icp-discovery](https://github.com/jpeslar1/linkedin-mcp-icp-discovery) — Seed best customers → behavioral lookalike scoring → live-confirmed top-tier list
+
+Or browse them all in [awesome-linkedin-mcp](https://github.com/jpeslar1/awesome-linkedin-mcp) — the curated index of LinkedIn MCP workflows, servers, and adjacent tools.
 
 Follow my [GitHub](https://github.com/jpeslar1) for the rest.
 
